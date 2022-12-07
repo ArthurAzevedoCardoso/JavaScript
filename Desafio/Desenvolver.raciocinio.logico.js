@@ -2,8 +2,8 @@
 
 //[V] Faça um programa que SOME 2 números
 //[V] Faça um programa que multiplique 2 números e o resultado adicione 10
-//[ ] Faça um programa que encontre a raiz quadrada de um número, multiplique o resultado por 10 e divida por 33
-//[ ] Faça um programa que inicie com dois nomes, e o programa imprima na tela o seguinte dado: Olá, meu nome é (nome 1) e meu partner do CodeClub é (nome2)
+//[V] Faça um programa que encontre a raiz quadrada de um número, multiplique o resultado por 10 e divida por 33
+//[V] Faça um programa que inicie com dois nomes, e o programa imprima na tela o seguinte dado: Olá, meu nome é (nome 1) e meu partner do CodeClub é (nome2)
 //[ ] Faça um programa que imprima na tela se um nome é igual ao outro nome digitado. Ex: João e João, imprime true. João e Maria, imprime false.
 //[ ] Faça um programa que imprima na tela se um nome é diferente ao outro nome digitado. Ex: João e João, imprime false. João e Maria, imprime true.
 //[ ] Faça um programa que imprima na tela se um nome é igual ao outro nome digitado. Porém, os dois nomes devem estar em um Array. Ex: const array = ["João", "Maria"]. João e João, imprime true. João e Maria, imprime false.
