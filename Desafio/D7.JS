@@ -7,7 +7,7 @@ let compareTwo = `${array[1]} e igual ${array[0]}? `
 let result = array[0] == array[0]
 let resultOne = array[0] == array[1]
 let Text = `Se alguns dos nomes forem iguais o resultado vai ser verdadeiro se
-não o resultado vai ser falso  ?`
+não o resultado vai ser falso`
 
 console.log(Text)
 console.log(compareOne)
